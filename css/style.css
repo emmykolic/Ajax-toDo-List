@@ -1,0 +1,10 @@
+.background{
+    background: url("../img/nurse2.jpg"); 
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.del {
+    text-decoration: line-through;
+}
